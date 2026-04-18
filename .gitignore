@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# venv
+.venv/
+env/
+
+# env file（非常重要）
+.env
+
+# macOS
+.DS_Store
